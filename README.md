@@ -1,0 +1,2 @@
+# NCKU_DISCRETE_MATHEMATICS
+homework
